@@ -4,7 +4,7 @@ import './feature.css'
 function Fearture() {
   return (
     <div>
-      
+      Feature
     </div>
   )
 }
